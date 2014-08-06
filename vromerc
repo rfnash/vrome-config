@@ -1,3 +1,5 @@
+set searchengines={"duckduckgo":"https://duckduckgo.com/?q={{keyword}}", "google":"http://www.google.com/search?q={{keyword}}"}
+
 map J gT
 map K gt
 map + zi
